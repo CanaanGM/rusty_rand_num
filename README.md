@@ -9,3 +9,6 @@
    1. Value which indecates sucess
    2. err which indecated failure
 4. TOML is Tom's obvious markdown language xD
+5. match is like a switch from python which matches an expresion or a value
+6. creating a variable using *let* is like creating a *const* or a *readonly* variable
+7. creating a variable and adding *mut* is like a normal *var* in python or a *read/write* in c#
